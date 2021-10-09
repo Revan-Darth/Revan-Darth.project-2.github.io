@@ -41,6 +41,7 @@ body.no-scroll{
 	line-height: 77px;
 	text-transform: uppercase;
 	color: #6d6e70;
+	margin-left: 1px;
 }
 .header__menu {
 	display: flex;
